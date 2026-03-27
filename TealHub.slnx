@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Éléments de solution/" />
+  <Project Path="TealHub.API/TealHub.API.csproj" />
+  <Project Path="TealHub.Application/TealHub.Application.csproj" />
+  <Project Path="TealHub.Domain/TealHub.Domain.csproj" />
+  <Project Path="TealHub.Infrastructure/TealHub.Infrastructure.csproj" />
+</Solution>
